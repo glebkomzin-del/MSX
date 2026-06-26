@@ -1,0 +1,40 @@
+{
+  "name": "Meine Auswahl",
+  "version": "1.0.0",
+  "type": "pages",
+  "headline": "Meine Auswahl",
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,1,4,4",
+          "color": "msx-glass",
+          "icon": "live-tv",
+          "iconSize": "large",
+          "label": "Russisches Fernsehen",
+          "focus": true,
+          "action": "link:https://drm-play.com"
+        },
+        {
+          "type": "button",
+          "layout": "4,1,4,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "iconSize": "large",
+          "label": "Mediathek",
+          "action": "link:https://lord67.com"
+        },
+        {
+          "type": "button",
+          "layout": "8,1,4,4",
+          "color": "msx-glass",
+          "icon": "movie-filter",
+          "iconSize": "large",
+          "label": "Mediathek 2",
+          "action": "link:https://atodo.fun"
+        }
+      ]
+    }
+  ]
+}
