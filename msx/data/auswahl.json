@@ -1,6 +1,6 @@
 {
   "name": "Meine Auswahl",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "pages",
   "headline": "Meine Auswahl",
   "pages": [
@@ -14,7 +14,7 @@
           "iconSize": "large",
           "label": "Russisches Fernsehen",
           "focus": true,
-          "action": "link:window:https://drm-play.com"
+          "action": "content:https://drm-play.com/msx/content.json"
         },
         {
           "type": "button",
@@ -23,7 +23,7 @@
           "icon": "movie",
           "iconSize": "large",
           "label": "Mediathek",
-          "action": "link:window:https://lord67.com"
+          "action": "content:https://lord67.com/msx/start.json"
         },
         {
           "type": "button",
