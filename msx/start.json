@@ -1,0 +1,10 @@
+{
+  "name": "Gleb MSX Start",
+  "version": "1.0.2",
+  "parameter": "menu:https://glebkomzin-del.github.io/msx/data/menu.json",
+  "welcome": "none",
+  "launcher": {
+    "icon": "play-circle-outline",
+    "color": "msx-black-soft"
+  }
+}
