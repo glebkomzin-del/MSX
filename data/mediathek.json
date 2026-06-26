@@ -1,0 +1,21 @@
+{
+  "name": "Mediathek",
+  "version": "1.0.0",
+  "headline": "Mediathek",
+  "type": "list",
+  "template": {
+    "type": "button",
+    "layout": "0,0,6,1",
+    "color": "msx-glass",
+    "icon": "movie"
+  },
+  "items": [
+    {
+      "id": "open-mediathek",
+      "label": "Mediathek öffnen",
+      "focus": true,
+      "execute": true,
+      "action": "link:https://lord67.com"
+    }
+  ]
+}
